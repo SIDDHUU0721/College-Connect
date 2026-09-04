@@ -32,7 +32,7 @@ Visit **http://localhost:5173** in your browser.
 
 Switch between roles seamlessly using the **"Viewing as"** pill in the top navigation bar:
 
-1. **Student**: `zayed@student.college.edu` / `password123` (Zayed — 3rd Year CSE)
+1. **Student**: `sid@student.college.edu` / `password123` (Sid — 3rd Year CSE)
 2. **Teacher**: `prabhavathi@faculty.college.edu` / `password123` (Prof. Prabhavathi — NLP & AI Lead)
 3. **Teacher**: `vidhya@faculty.college.edu` / `password123` (Prof. Vidhya — DBMS & DAA, HOD)
 4. **Teacher**: `nirmala@faculty.college.edu` / `password123` (Dr. Nirmala — Cloud Computing)

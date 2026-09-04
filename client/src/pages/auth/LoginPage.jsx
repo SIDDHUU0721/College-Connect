@@ -93,7 +93,7 @@ export default function LoginPage() {
               <ShieldCheck className="w-3.5 h-3.5 text-indigo-400" /> Account Directory Reference
             </span>
             <div className="space-y-0.5 text-[10px] text-slate-400 font-mono">
-              <p>🎓 Student: <span className="text-white">zayed@student.college.edu</span> / password123</p>
+              <p>🎓 Student: <span className="text-white">sid@student.college.edu</span> / password123</p>
               <p>🛡️ Faculty: <span className="text-white">prabhavathi@faculty.college.edu</span> / password123</p>
               <p>👑 Admin: <span className="text-white">meena@college.edu</span> / admin123</p>
             </div>
